@@ -1,0 +1,27 @@
+#navbarTogglerDemo03{
+    margin-left:35%;
+    font-size: large;
+}
+.card-img-overlay{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+#firstcard{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.backs{
+    background-color: rgba(231, 225, 225, 0.589);
+    padding: 100px;
+}
+#secondcard{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 100px;
+    border: none;
+    border-radius: 0px solid white;
+}
+.span1{
+    border: 2px solid white;
+    padding: 500px;
+}

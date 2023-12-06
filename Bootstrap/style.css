@@ -1,0 +1,122 @@
+.abovenav{
+    height: 35px;
+    width: 100%;
+    background-color: rgb(222, 217, 217);
+}
+.abovenav span{
+    font-size: 12px;
+    color: rgb(138, 132, 132);
+}
+.pooja{
+    margin-left: 15%;
+}
+.nav{
+    display: flex;
+    justify-content: baseline;
+    height: 10%;
+    width: 100%;
+}
+.nav button{
+    margin-left: 70px;
+    height: 40px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(45, 179, 224);
+    border: none;
+    border-radius: none;
+}
+.home{
+    color: rgb(207, 33, 33);
+}
+.navimg{
+    height: 650px;
+    z-index: 1;
+    opacity: 0.7;
+}
+.navcap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 30%;
+    color: black;
+    font-weight: bold;
+}
+.NAVBTN{
+    background-color: rgb(12, 112, 158);
+    color: white;
+    border: none;
+    width: 15%;
+    height: 10%;
+    font-weight: bold;
+    margin: 10px;
+}
+.NAVBTN1{
+    color: rgb(12, 112, 158);
+    border: none;
+    width: 15%;
+    height: 10%;
+    border: 2px solid rgb(12, 112, 158);
+    font-weight: bold;
+}
+.NAVBTN:hover{
+    background-color: white;
+    color: rgb(12, 112, 158);
+    border: none;
+    width: 15%;
+    height: 10%;
+    border: 2px solid rgb(12, 112, 158);
+    font-weight: bold;
+}
+.NAVBTN1:hover{
+    background-color:rgb(12, 112, 158) ;
+    color: white;
+}
+.about{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+}
+.about1{
+    height: 500px;
+    width: 430px;
+}
+.aboutimg{
+    height: 500px;
+    width: 430px;
+}
+.about2{
+    height: 500px;
+    width: 500px;
+}
+.about2 hr{
+    width: 20%;
+    background-color: #00aeef;
+    height: 2px;
+}
+.about2 p{
+    color: grey;
+    margin-bottom: 50px;
+}
+.about2 h4{
+    color: rgb(41, 40, 40);
+    padding-bottom: 10px;
+}
+.test{
+    position: relative;
+    top: 150px;
+}
+.test img{
+    width: 100%;
+}
+.test2{
+    position: relative;
+    top: 180px;
+}
+.price{
+    display: flex;
+    position: relative;
+    
+}
